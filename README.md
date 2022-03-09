@@ -2,7 +2,7 @@
 # Formatação de Textos
 
 ```html
-  <b></b>
+    <b></b>
 ```
 
   > Deixa tudo que estiver entre as *tags* em negrito (Descontinuada).
