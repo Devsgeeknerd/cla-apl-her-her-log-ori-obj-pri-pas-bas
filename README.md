@@ -44,7 +44,7 @@
 > Deixa tudo que estiver entre as *tags* levemente para baixo.
 
 ```html
-  <sup><sup>
+    <sup><sup>
 ```
 
 > Deixa tudo que estiver entre as *tags* levemente para cima.
