@@ -26,7 +26,7 @@
 > Deixa tudo que estiver entre as *tags* sublinhado.
 
 ```html
-  <small></small>
+    <small></small>
 ```
 
 > Deixa tudo que estiver entre as *tags* pequeno.
