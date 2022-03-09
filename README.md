@@ -32,7 +32,7 @@
 > Deixa tudo que estiver entre as *tags* pequeno.
 
 ```html
-  <strike></strike>
+    <strike></strike>
 ```
 
 > Deixa tudo que estiver entre as *tags* riscado (Descontinuada).
