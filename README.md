@@ -54,7 +54,7 @@
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
+<!--  * [Links](#links) -->
 <!-- * [Meu processo](#meu-processo) -->
 <!--  * [Contruido com](#construido-com) -->
 <!--  * [O que aprendi](#o-que-aprendi) -->
