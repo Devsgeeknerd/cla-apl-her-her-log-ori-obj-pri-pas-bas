@@ -47,7 +47,7 @@
   <sup><sup>
 ```
 
-  > Deixa tudo que estiver entre as *tags* levemente para cima.
+> Deixa tudo que estiver entre as *tags* levemente para cima.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
