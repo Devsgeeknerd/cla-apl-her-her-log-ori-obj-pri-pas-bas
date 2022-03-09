@@ -5,7 +5,7 @@
     <b></b>
 ```
 
-  > Deixa tudo que estiver entre as *tags* em negrito (Descontinuada).
+> Deixa tudo que estiver entre as *tags* em negrito (Descontinuada).
 
 ```html
   <strong></strong>
