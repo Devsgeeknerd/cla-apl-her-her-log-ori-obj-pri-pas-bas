@@ -11,10 +11,10 @@
     <strong></strong>
 ```
 
-  > Deixa tudo que estiver entre as *tags* em negrito.
+> Deixa tudo que estiver entre as *tags* em negrito.
 
 ```html
-  <i></i>
+    <i></i>
 ```
 
 > Deixa tudo que estiver entre as *tags* em italico.
