@@ -20,7 +20,7 @@
 > Deixa tudo que estiver entre as *tags* em italico.
 
 ```html
-  <u></u>
+    <u></u>
 ```
 
 > Deixa tudo que estiver entre as *tags* sublinhado.
