@@ -38,7 +38,7 @@
 > Deixa tudo que estiver entre as *tags* riscado (Descontinuada).
 
 ```html
-  <sub></sub>
+    <sub></sub>
 ```
 
 > Deixa tudo que estiver entre as *tags* levemente para baixo.
