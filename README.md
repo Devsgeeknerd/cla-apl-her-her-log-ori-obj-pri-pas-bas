@@ -8,7 +8,7 @@
 > Deixa tudo que estiver entre as *tags* em negrito (Descontinuada).
 
 ```html
-  <strong></strong>
+    <strong></strong>
 ```
 
   > Deixa tudo que estiver entre as *tags* em negrito.
